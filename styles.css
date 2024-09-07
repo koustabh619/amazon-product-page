@@ -1,0 +1,57 @@
+body {
+    font-family: Arial;
+    display: flex;
+    justify-content:space-around;
+    margin: 1px solid black;
+
+}
+
+.title {
+    font-weight: bold;
+    font-size:250%;
+    justify-content: space-around;
+    padding: 3;
+    
+    
+}
+.para1 {
+    font-weight: bolder;
+    color: #007185
+        
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    margin-bottom: 18%;
+}
+
+.list {
+    display: block;
+    justify-content: left;
+    margin-right: 2%;
+    margin-top: 2%;
+    margin-left: 2%; 
+    margin-bottom: 2%;
+    
+}
+.new {
+    margin-left: 1%;
+    margin-top: 2%;
+}
+.img {
+    width: 35%;
+
+}
+.para2 {
+    font-weight: bolder;
+    
+    
+}
+.onpara{
+    font-weight:550;
+    font-size:130%;
+}
+.refer{
+    font-size: smaller;
+    color: #565959;
+}
